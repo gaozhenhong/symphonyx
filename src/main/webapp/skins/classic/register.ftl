@@ -36,9 +36,10 @@
                                 </td>
                                 <td>
                                     <input type="text" id="userRealName" />
+                                     <input type="hidden" id="userTeam" value=""/>
                                 </td>
                             </tr>
-                            <tr>
+                            <!-- <tr>
                                 <td>
                                     <label for="userTeam">${teamLabel}</label>
                                 </td>
@@ -49,7 +50,7 @@
                                         </#list>
                                     </select>
                                 </td>
-                            </tr>
+                            </tr> -->
                             <tr>
                                 <td>
                                     <label for="securityCode">${captchaLabel}</label>
