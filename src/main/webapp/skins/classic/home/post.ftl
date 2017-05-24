@@ -27,7 +27,7 @@
                         ${thoughtLabel} - 
                         <span class="ft-gray">
                             写作过程的记录与重放，文字版的<span class="ft-red">沙画</span>表演
-                            <a href="https://hacpai.com/article/1441942422856" target="_blank">(?)</a>
+                            <a href="http://183.224.44.44:8088/article/1441942422856" target="_blank">(?)</a>
                         </span>
                     </#if>
                     <div>
